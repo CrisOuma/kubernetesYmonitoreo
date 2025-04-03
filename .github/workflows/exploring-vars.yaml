@@ -8,7 +8,7 @@ env:
 
 jobs: 
   greeting_job:
-  runs_on: ubuntu-latest
+    runs_on: ubuntu-latest
     env:
       Greeting: hello
     steps: 
