@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sesha\\source\\repos\\ExploringActions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CCF5743-2FF1-442A-BBD3-41A5ABFF660F}|..\\TestExploringActions\\TestExploringActions.csproj|c:\\users\\sesha\\source\\repos\\testexploringactions\\weatherforecastcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B716DF3-1D30-46D0-99FF-D54F59C307F5}|ExploringActions.csproj|c:\\users\\sesha\\source\\repos\\exploringactions\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B716DF3-1D30-46D0-99FF-D54F59C307F5}|ExploringActions.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\sesha\\source\\repos\\TestExploringActions\\WeatherForecastControllerTest.cs",
+              "RelativeDocumentMoniker": "..\\TestExploringActions\\WeatherForecastControllerTest.cs",
+              "ToolTip": "C:\\Users\\sesha\\source\\repos\\TestExploringActions\\WeatherForecastControllerTest.cs",
+              "RelativeToolTip": "..\\TestExploringActions\\WeatherForecastControllerTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T23:01:32.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\sesha\\source\\repos\\ExploringActions\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\sesha\\source\\repos\\ExploringActions\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T22:45:18.33Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
